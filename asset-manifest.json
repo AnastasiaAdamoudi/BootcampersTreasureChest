@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BootcampersTreasureChest/static/css/main.4096c9f7.css",
+    "main.js": "/BootcampersTreasureChest/static/js/main.2aaef5d0.js",
+    "static/js/787.d3befce1.chunk.js": "/BootcampersTreasureChest/static/js/787.d3befce1.chunk.js",
+    "static/media/soc_logo_360.png": "/BootcampersTreasureChest/static/media/soc_logo_360.67ea26b1cc378fdb3296.png",
+    "index.html": "/BootcampersTreasureChest/index.html",
+    "main.4096c9f7.css.map": "/BootcampersTreasureChest/static/css/main.4096c9f7.css.map",
+    "main.2aaef5d0.js.map": "/BootcampersTreasureChest/static/js/main.2aaef5d0.js.map",
+    "787.d3befce1.chunk.js.map": "/BootcampersTreasureChest/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4096c9f7.css",
+    "static/js/main.2aaef5d0.js"
+  ]
+}
